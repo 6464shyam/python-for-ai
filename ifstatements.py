@@ -29,4 +29,15 @@ age =int(input())
 if age>=18:
     print("You are an adult.")
 else:
-    print("You are not an adult yet.")
+    print("You are not an adult yet.") 
+
+ #loops 
+
+for i in range(5):
+    print(i)
+
+#output: 0,1,2,3,4
+
+for i in range(0,10 ,2):
+    print(i)
+#output: 0,2,4,6,8
