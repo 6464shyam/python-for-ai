@@ -1,0 +1,1 @@
+print("Hello , in 60 days im becoming ai engineer")
