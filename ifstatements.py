@@ -41,3 +41,26 @@ for i in range(5):
 for i in range(0,10 ,2):
     print(i)
 #output: 0,2,4,6,8
+
+count = 1
+while count < 100:
+    print(count)
+    count += 1
+
+count =100 
+while count >0:
+    print(count)
+    count -= 1
+
+i =1 
+n=3
+while i<= 10:
+    print (n*i)
+    i +=1
+
+
+nums = [1,2,3,4,5,6,100,11,1,109]
+idx =0
+while idx < len(nums):
+    print(nums[idx])
+    idx +=1

@@ -14,7 +14,7 @@ while True:
         phone = input("enter phone:")
 
         contact = {'name': name, 'phone': phone}
-        contacts.append(contact)
+        contacts.append(contact)         
 
         print("contact added successfully")
     elif choice =='2':
